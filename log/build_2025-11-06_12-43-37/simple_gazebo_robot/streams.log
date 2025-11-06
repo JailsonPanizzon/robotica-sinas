@@ -1,0 +1,25 @@
+[1.155s] Invoking command in '/ros2/simple_gazebo_robot': PYTHONPATH=/ros2/build/simple_gazebo_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros2/install/simple_gazebo_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/simple_gazebo_robot build --build-base /ros2/build/simple_gazebo_robot/build install --record /ros2/build/simple_gazebo_robot/install.log --single-version-externally-managed install_data
+[1.580s] running egg_info
+[1.580s] writing ../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/PKG-INFO
+[1.581s] writing dependency_links to ../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/dependency_links.txt
+[1.582s] writing entry points to ../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/entry_points.txt
+[1.582s] writing requirements to ../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/requires.txt
+[1.582s] writing top-level names to ../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/top_level.txt
+[1.584s] reading manifest file '../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/SOURCES.txt'
+[1.585s] writing manifest file '../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/SOURCES.txt'
+[1.587s] running build
+[1.587s] running install
+[1.587s] running install_data
+[1.587s] copying resource/simple_gazebo_robot -> /ros2/install/simple_gazebo_robot/share/ament_index/resource_index/packages
+[1.587s] copying launch/sim.launch.py -> /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/launch
+[1.588s] creating /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/urdf
+[1.588s] copying urdf/amiga_descr.urdf.xacro -> /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/urdf
+[1.588s] creating /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/config
+[1.588s] creating /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/mesh
+[1.588s] copying mesh/roda.dae -> /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/mesh
+[1.591s] copying mesh/chassi.dae -> /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/mesh
+[1.644s] running install_egg_info
+[1.649s] Copying ../build/simple_gazebo_robot/simple_gazebo_robot.egg-info to /ros2/install/simple_gazebo_robot/lib/python3.10/site-packages/simple_gazebo_robot-0.0.0-py3.10.egg-info
+[1.653s] running install_scripts
+[1.699s] writing list of installed files to '/ros2/build/simple_gazebo_robot/install.log'
+[1.757s] Invoked command in '/ros2/simple_gazebo_robot' returned '0': PYTHONPATH=/ros2/build/simple_gazebo_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros2/install/simple_gazebo_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/simple_gazebo_robot build --build-base /ros2/build/simple_gazebo_robot/build install --record /ros2/build/simple_gazebo_robot/install.log --single-version-externally-managed install_data

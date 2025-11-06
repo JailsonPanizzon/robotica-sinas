@@ -1,0 +1,16 @@
+[1.185s] Invoking command in '/ros2/simple_gazebo_robot': PYTHONPATH=/ros2/build/simple_gazebo_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros2/install/simple_gazebo_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/simple_gazebo_robot build --build-base /ros2/build/simple_gazebo_robot/build install --record /ros2/build/simple_gazebo_robot/install.log --single-version-externally-managed install_data
+[1.559s] running egg_info
+[1.560s] creating ../build/simple_gazebo_robot/simple_gazebo_robot.egg-info
+[1.561s] writing ../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/PKG-INFO
+[1.563s] writing dependency_links to ../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/dependency_links.txt
+[1.570s] writing entry points to ../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/entry_points.txt
+[1.570s] writing requirements to ../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/requires.txt
+[1.571s] writing top-level names to ../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/top_level.txt
+[1.571s] writing manifest file '../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/SOURCES.txt'
+[1.571s] reading manifest file '../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/SOURCES.txt'
+[1.571s] writing manifest file '../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/SOURCES.txt'
+[1.571s] running build
+[1.571s] running install
+[1.572s] running install_data
+[1.576s] error: can't copy 'resource/simple_gazebo_robot': doesn't exist or not a regular file
+[1.621s] Invoked command in '/ros2/simple_gazebo_robot' returned '1': PYTHONPATH=/ros2/build/simple_gazebo_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros2/install/simple_gazebo_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/simple_gazebo_robot build --build-base /ros2/build/simple_gazebo_robot/build install --record /ros2/build/simple_gazebo_robot/install.log --single-version-externally-managed install_data

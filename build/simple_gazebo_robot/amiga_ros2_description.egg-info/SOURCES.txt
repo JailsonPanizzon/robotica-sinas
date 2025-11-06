@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../build/simple_gazebo_robot/amiga_ros2_description.egg-info/PKG-INFO
+../build/simple_gazebo_robot/amiga_ros2_description.egg-info/SOURCES.txt
+../build/simple_gazebo_robot/amiga_ros2_description.egg-info/dependency_links.txt
+../build/simple_gazebo_robot/amiga_ros2_description.egg-info/entry_points.txt
+../build/simple_gazebo_robot/amiga_ros2_description.egg-info/requires.txt
+../build/simple_gazebo_robot/amiga_ros2_description.egg-info/top_level.txt
+../build/simple_gazebo_robot/amiga_ros2_description.egg-info/zip-safe
+launch/sim.launch.py
+mesh/chassi.dae
+mesh/roda.dae
+urdf/amiga_descr.urdf.xacro
+worlds/farm_rows_world.sdf

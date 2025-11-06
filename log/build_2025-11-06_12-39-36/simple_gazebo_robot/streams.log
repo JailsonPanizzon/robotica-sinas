@@ -1,0 +1,14 @@
+[1.061s] Invoking command in '/ros2/simple_gazebo_robot': PYTHONPATH=/ros2/build/simple_gazebo_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros2/install/simple_gazebo_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/simple_gazebo_robot build --build-base /ros2/build/simple_gazebo_robot/build install --record /ros2/build/simple_gazebo_robot/install.log --single-version-externally-managed install_data
+[1.426s] running egg_info
+[1.426s] writing ../build/simple_gazebo_robot/amiga_ros2_description.egg-info/PKG-INFO
+[1.430s] writing dependency_links to ../build/simple_gazebo_robot/amiga_ros2_description.egg-info/dependency_links.txt
+[1.430s] writing entry points to ../build/simple_gazebo_robot/amiga_ros2_description.egg-info/entry_points.txt
+[1.430s] writing requirements to ../build/simple_gazebo_robot/amiga_ros2_description.egg-info/requires.txt
+[1.430s] writing top-level names to ../build/simple_gazebo_robot/amiga_ros2_description.egg-info/top_level.txt
+[1.431s] reading manifest file '../build/simple_gazebo_robot/amiga_ros2_description.egg-info/SOURCES.txt'
+[1.431s] writing manifest file '../build/simple_gazebo_robot/amiga_ros2_description.egg-info/SOURCES.txt'
+[1.431s] running build
+[1.431s] running install
+[1.431s] running install_data
+[1.431s] error: can't copy 'resource/amiga_ros2_description': doesn't exist or not a regular file
+[1.471s] Invoked command in '/ros2/simple_gazebo_robot' returned '1': PYTHONPATH=/ros2/build/simple_gazebo_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ros2/install/simple_gazebo_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/simple_gazebo_robot build --build-base /ros2/build/simple_gazebo_robot/build install --record /ros2/build/simple_gazebo_robot/install.log --single-version-externally-managed install_data

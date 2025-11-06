@@ -1,0 +1,15 @@
+/ros2/install/simple_gazebo_robot/share/ament_index/resource_index/packages/simple_gazebo_robot
+/ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/package.xml
+/ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/launch/sim.launch.py
+/ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/urdf/amiga_descr.urdf.xacro
+/ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/config
+/ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/mesh/roda.dae
+/ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/mesh/chassi.dae
+/ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/worlds/farm_rows_world.sdf
+/ros2/install/simple_gazebo_robot/lib/python3.10/site-packages/simple_gazebo_robot-0.0.0-py3.10.egg-info/dependency_links.txt
+/ros2/install/simple_gazebo_robot/lib/python3.10/site-packages/simple_gazebo_robot-0.0.0-py3.10.egg-info/requires.txt
+/ros2/install/simple_gazebo_robot/lib/python3.10/site-packages/simple_gazebo_robot-0.0.0-py3.10.egg-info/PKG-INFO
+/ros2/install/simple_gazebo_robot/lib/python3.10/site-packages/simple_gazebo_robot-0.0.0-py3.10.egg-info/entry_points.txt
+/ros2/install/simple_gazebo_robot/lib/python3.10/site-packages/simple_gazebo_robot-0.0.0-py3.10.egg-info/SOURCES.txt
+/ros2/install/simple_gazebo_robot/lib/python3.10/site-packages/simple_gazebo_robot-0.0.0-py3.10.egg-info/zip-safe
+/ros2/install/simple_gazebo_robot/lib/python3.10/site-packages/simple_gazebo_robot-0.0.0-py3.10.egg-info/top_level.txt

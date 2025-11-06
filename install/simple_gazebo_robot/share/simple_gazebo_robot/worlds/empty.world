@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<sdf version="1.6">
+  <model name="simple_robot">
+    <pose>0 0 0.1 0 0 0</pose>
+    <link name="base_link">
+      <inertial>
+        <mass>1.0</mass>
+        <inertia>
+          <ixx>0.1</ixx>
+          <iyy>0.1</iyy>
+          <izz>0.1</izz>
+        </inertia>
+      </inertial>
+      <collision name="collision">
+        <geometry>
+          <box><size>0.3 0.2 0.1</size></box>
+        </geometry>
+      </collision>
+      <visual name="visual">
+        <geometry>
+          <box><size>0.3 0.2 0.1</size></box>
+        </geometry>
+        <material><ambient>0 0 1 1</ambient></material>
+      </visual>
+    </link>
+
+    <!-- Plugin ROS2 para ouvir /cmd_vel -->
+    <plugin name="diff_drive" filename="libgazebo_ros_diff_drive.so">
+      <ros>
+        <namespace>/</namespace>
+        <remapping>cmd_vel:=/cmd_vel</remapping>
+      </ros>
+      <update_rate>20</update_rate>
+      <left_joint>wheel_left_joint</left_joint>
+      <right_joint>wheel_right_joint</right_joint>
+      <wheel_separation>0.2</wheel_separation>
+      <wheel_diameter>0.1</wheel_diameter>
+      <max_wheel_torque>5.0</max_wheel_torque>
+      <command_timeout>1.0</command_timeout>
+    </plugin>
+  </model>
+</sdf>

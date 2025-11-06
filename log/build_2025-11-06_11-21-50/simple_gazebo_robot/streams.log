@@ -1,0 +1,28 @@
+[0.015s] Invoking command in '/ros2/build/simple_gazebo_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /ros2/build/simple_gazebo_robot -- -j12 -l12
+[0.068s] Invoked command in '/ros2/build/simple_gazebo_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /ros2/build/simple_gazebo_robot -- -j12 -l12
+[0.081s] Invoking command in '/ros2/build/simple_gazebo_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /ros2/build/simple_gazebo_robot
+[0.091s] -- Install configuration: ""
+[0.091s] -- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot//launch
+[0.091s] -- Installing: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot//launch/sim.launch.py
+[0.092s] -- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot//worlds
+[0.092s] -- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot//worlds/empty.world
+[0.092s] -- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot//models
+[0.092s] -- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot//models/model.sdf
+[0.092s] -- Up-to-date: /ros2/install/simple_gazebo_robot/include/
+[0.092s] -- Up-to-date: /ros2/install/simple_gazebo_robot/include//simple_gazebo_robot
+[0.092s] -- Up-to-date: /ros2/install/simple_gazebo_robot/share/ament_index/resource_index/package_run_dependencies/simple_gazebo_robot
+[0.092s] -- Up-to-date: /ros2/install/simple_gazebo_robot/share/ament_index/resource_index/parent_prefix_path/simple_gazebo_robot
+[0.093s] -- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/environment/ament_prefix_path.sh
+[0.093s] -- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/environment/ament_prefix_path.dsv
+[0.093s] -- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/environment/path.sh
+[0.093s] -- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/environment/path.dsv
+[0.093s] -- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/local_setup.bash
+[0.093s] -- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/local_setup.sh
+[0.093s] -- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/local_setup.zsh
+[0.093s] -- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/local_setup.dsv
+[0.093s] -- Installing: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/package.dsv
+[0.093s] -- Up-to-date: /ros2/install/simple_gazebo_robot/share/ament_index/resource_index/packages/simple_gazebo_robot
+[0.094s] -- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/cmake/simple_gazebo_robotConfig.cmake
+[0.094s] -- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/cmake/simple_gazebo_robotConfig-version.cmake
+[0.094s] -- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/package.xml
+[0.097s] Invoked command in '/ros2/build/simple_gazebo_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /ros2/build/simple_gazebo_robot

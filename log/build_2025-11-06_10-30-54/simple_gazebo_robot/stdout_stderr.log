@@ -1,0 +1,24 @@
+-- Install configuration: ""
+-- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot//launch
+-- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot//launch/sim.launch.py
+-- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot//worlds
+-- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot//worlds/empty.world
+-- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot//models
+-- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot//models/model.sdf
+-- Installing: /ros2/install/simple_gazebo_robot/include/
+-- Installing: /ros2/install/simple_gazebo_robot/include//simple_gazebo_robot
+-- Installing: /ros2/install/simple_gazebo_robot/share/ament_index/resource_index/package_run_dependencies/simple_gazebo_robot
+-- Installing: /ros2/install/simple_gazebo_robot/share/ament_index/resource_index/parent_prefix_path/simple_gazebo_robot
+-- Installing: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/environment/ament_prefix_path.sh
+-- Installing: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/environment/ament_prefix_path.dsv
+-- Installing: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/environment/path.sh
+-- Installing: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/environment/path.dsv
+-- Installing: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/local_setup.bash
+-- Installing: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/local_setup.sh
+-- Installing: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/local_setup.zsh
+-- Installing: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/local_setup.dsv
+-- Up-to-date: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/package.dsv
+-- Installing: /ros2/install/simple_gazebo_robot/share/ament_index/resource_index/packages/simple_gazebo_robot
+-- Installing: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/cmake/simple_gazebo_robotConfig.cmake
+-- Installing: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/cmake/simple_gazebo_robotConfig-version.cmake
+-- Installing: /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/package.xml

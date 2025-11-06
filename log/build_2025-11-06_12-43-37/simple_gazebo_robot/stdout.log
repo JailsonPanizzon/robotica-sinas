@@ -1,0 +1,23 @@
+running egg_info
+writing ../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/PKG-INFO
+writing dependency_links to ../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/dependency_links.txt
+writing entry points to ../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/entry_points.txt
+writing requirements to ../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/requires.txt
+writing top-level names to ../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/top_level.txt
+reading manifest file '../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/SOURCES.txt'
+writing manifest file '../build/simple_gazebo_robot/simple_gazebo_robot.egg-info/SOURCES.txt'
+running build
+running install
+running install_data
+copying resource/simple_gazebo_robot -> /ros2/install/simple_gazebo_robot/share/ament_index/resource_index/packages
+copying launch/sim.launch.py -> /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/launch
+creating /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/urdf
+copying urdf/amiga_descr.urdf.xacro -> /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/urdf
+creating /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/config
+creating /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/mesh
+copying mesh/roda.dae -> /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/mesh
+copying mesh/chassi.dae -> /ros2/install/simple_gazebo_robot/share/simple_gazebo_robot/mesh
+running install_egg_info
+Copying ../build/simple_gazebo_robot/simple_gazebo_robot.egg-info to /ros2/install/simple_gazebo_robot/lib/python3.10/site-packages/simple_gazebo_robot-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/ros2/build/simple_gazebo_robot/install.log'
