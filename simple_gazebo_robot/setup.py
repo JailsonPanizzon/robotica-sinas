@@ -46,6 +46,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            "keyboard_node = simple_gazebo_robot.keyboard_node:main",
         ],
     },
 )
